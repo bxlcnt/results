@@ -1,139 +1,52 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: heveaHtml-articleEnFa/articleEnFa.aux
-The style file: plain.bst
-Database file #1: /lcnt/BIB/plpcUrl.bib
-I was expecting a `,' or a `}'---line 145 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "In english \"
- :                                  free\" is confusing because when using the term \"free\", it sometimes
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 324 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "This article is a follow-on to our previous article \"
- :                                                                           The WAP Trap.\" It
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 617 of file /lcnt/BIB/plpcUrl.bib
- : Libre model fully in the form of an industry paper titled, \"
- :                                                              Libre Services: a
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 694 of file /lcnt/BIB/plpcUrl.bib
- : Libre model fully in the form of an industry paper titled, \"
- :                                                              Libre Services: a
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 814 of file /lcnt/BIB/plpcUrl.bib
- : By \"
- :      correct\" we mean that these models bring far greater benefits than their
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1059 of file /lcnt/BIB/plpcUrl.bib
- :       about service functionality. By* (pronounced \"
- :                                                      by-star\") is a specific
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1175 of file /lcnt/BIB/plpcUrl.bib
- : \"
- :   Libre Texting: A Reshaping of the Medium.\"
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1963 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "In this paper we introduce the concept of \"
- :                                                                 Convivial\" into Globish. We this
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 2881 of file /lcnt/BIB/plpcUrl.bib
- : Libre model fully in the form of an industry paper titled, \"
- :                                                              Libre Services: a
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3001 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "With the strong message of \"
- :                                                  No Iran War\", accompanying a delegation of Green
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3031 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "This document is the transcript of our public email titled, \"
- :                                                                                   Libre Texting: A
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3159 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "This document is the transcript of our public email titled, \"
- :                                                                                   Libre Services:
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3178 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "This document is the transcript of our email titled, \"
- :                                                                            Our Internet engineering
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3198 of file /lcnt/BIB/plpcUrl.bib
- : Wireless Texting (henceforth just \"
- :                                     Texting\") medium, based on the Free Software
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3234 of file /lcnt/BIB/plpcUrl.bib
- : On June 9, 2009 we submitted SBIR proposal number 0946146, titled \"
- :                                                                     Libre
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3265 of file /lcnt/BIB/plpcUrl.bib
- : Wireless Texting (henceforth just \"
- :                                     Texting\") medium, based on the Free Software
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3304 of file /lcnt/BIB/plpcUrl.bib
- :     * Topic: \"
- :                Five Less Taught Topics in Data Communications\"
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3532 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "This is a translation of a best-selling Japanese book called \"
- :                                                                                    The Japan That
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3718 of file /lcnt/BIB/plpcUrl.bib
- :    abstract      = "BBDB Filters Package is a collection of filters and is called \"
- :                                                                                     BBDB Input and
-I'm skipping whatever remains of this entry
-Database file #2: /lcnt/BIB/rfcs.bib
-Database file #3: /lcnt/BIB/bxsup.bib
-Repeated entry---line 50 of file /lcnt/BIB/bxsup.bib
- : @misc{IPR-GoldMorin
- :                    ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 165 of file /lcnt/BIB/bxsup.bib
- : \"
- :   Libre-Halaal\" label for the halaal manner-of-existence of poly-existentials.
-I'm skipping whatever remains of this entry
-Too many commas in name 1 of "" Neda Communications, Inc, Mohsen BANAN, Andrew Hammoude "" for entry PLPC-110005
-while executing---line 1049 of file plain.bst
-Warning--there's a month but no year in PLPC-120035
-Too many commas in name 1 of "" Neda Communications, Inc, Mohsen BANAN, Andrew Hammoude "" for entry PLPC-110005
-while executing---line 1090 of file plain.bst
-Warning--there's a month but no year in Repub-120024
-You've used 30 entries,
-            2118 wiz_defined-function locations,
-            667 strings with 9183 characters,
-and the built_in function-call counts, 6311 in all, are:
-= -- 644
-> -- 216
-< -- 21
-+ -- 92
-- -- 62
-* -- 288
-:= -- 1194
-add.period$ -- 107
-call.type$ -- 30
-change.case$ -- 119
+Case mismatch error between cite keys Orientalism and orientalism
+---line 292 of file heveaHtml-articleEnFa/articleEnFa.aux
+ : \citation{Orientalism
+ :                      }
+I'm skipping whatever remains of this command
+I found no \bibdata command---while reading file heveaHtml-articleEnFa/articleEnFa.aux
+I found no \bibstyle command---while reading file heveaHtml-articleEnFa/articleEnFa.aux
+You've used 31 entries,
+            0 wiz_defined-function locations,
+            143 strings with 1184 characters,
+and the built_in function-call counts, 0 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 0
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 32
-duplicate$ -- 256
-empty$ -- 506
-format.name$ -- 62
-if$ -- 1272
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 0
+format.name$ -- 0
+if$ -- 0
 int.to.chr$ -- 0
-int.to.str$ -- 30
+int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 170
-num.names$ -- 60
-pop$ -- 120
-preamble$ -- 1
-purify$ -- 91
+newline$ -- 0
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 0
+purify$ -- 0
 quote$ -- 0
-skip$ -- 171
+skip$ -- 0
 stack$ -- 0
-substring$ -- 150
-swap$ -- 32
-text.length$ -- 21
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 120
-warning$ -- 2
-while$ -- 60
-width$ -- 32
-write$ -- 350
-(There were 23 error messages)
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 0
+(There were 3 error messages)
